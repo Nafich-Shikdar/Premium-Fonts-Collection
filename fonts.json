@@ -166,5 +166,68 @@
     "size": 196904,
     "type": "file",
     "sha": "1770379187888"
+  },
+  {
+    "name": "Bethlove woff 1-8073.woff",
+    "path": "Bethlove woff 1-8073.woff",
+    "size": 63704,
+    "type": "file",
+    "sha": "1770483130009"
+  },
+  {
+    "name": "Bethlove-YzO8y.ttf",
+    "path": "Bethlove-YzO8y.ttf",
+    "size": 123968,
+    "type": "file",
+    "sha": "1770483129179"
+  },
+  {
+    "name": "digital-7 (italic).ttf",
+    "path": "digital-7 (italic).ttf",
+    "size": 23344,
+    "type": "file",
+    "sha": "1770483129596"
+  },
+  {
+    "name": "digital-7 (mono italic).ttf",
+    "path": "digital-7 (mono italic).ttf",
+    "size": 22984,
+    "type": "file",
+    "sha": "1770483129281"
+  },
+  {
+    "name": "digital-7 (mono).ttf",
+    "path": "digital-7 (mono).ttf",
+    "size": 34404,
+    "type": "file",
+    "sha": "1770483129355"
+  },
+  {
+    "name": "Femina-K7v3W.ttf",
+    "path": "Femina-K7v3W.ttf",
+    "size": 42676,
+    "type": "file",
+    "sha": "1770483129474"
+  },
+  {
+    "name": "Hugh is Life Personal Use .ttf",
+    "path": "Hugh is Life Personal Use .ttf",
+    "size": 157712,
+    "type": "file",
+    "sha": "1770483129900"
+  },
+  {
+    "name": "Rosamunde.ttf",
+    "path": "Rosamunde.ttf",
+    "size": 239860,
+    "type": "file",
+    "sha": "1770483129986"
+  },
+  {
+    "name": "TheGodfather-v2.ttf",
+    "path": "TheGodfather-v2.ttf",
+    "size": 13328,
+    "type": "file",
+    "sha": "1770483129366"
   }
 ]
