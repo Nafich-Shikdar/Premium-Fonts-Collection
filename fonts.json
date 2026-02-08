@@ -1258,5 +1258,292 @@
     "size": 41524,
     "type": "file",
     "sha": "1770487254900"
+  },
+  {
+    "name": "Agaste-Italic.otf",
+    "path": "Agaste-Italic.otf",
+    "size": 108588,
+    "type": "file",
+    "sha": "1770523538137"
+  },
+  {
+    "name": "Agaste-Italic.ttf",
+    "path": "Agaste-Italic.ttf",
+    "size": 240816,
+    "type": "file",
+    "sha": "1770523537352"
+  },
+  {
+    "name": "Agaste-Italic.woff",
+    "path": "Agaste-Italic.woff",
+    "size": 116252,
+    "type": "file",
+    "sha": "1770523537891"
+  },
+  {
+    "name": "Agaste.otf",
+    "path": "Agaste.otf",
+    "size": 91532,
+    "type": "file",
+    "sha": "1770523537753"
+  },
+  {
+    "name": "Agaste.ttf",
+    "path": "Agaste.ttf",
+    "size": 214220,
+    "type": "file",
+    "sha": "1770523537826"
+  },
+  {
+    "name": "Agaste.woff",
+    "path": "Agaste.woff",
+    "size": 101456,
+    "type": "file",
+    "sha": "1770523538043"
+  },
+  {
+    "name": "Alaska Font.ttf",
+    "path": "Alaska Font.ttf",
+    "size": 23172,
+    "type": "file",
+    "sha": "1770523537477"
+  },
+  {
+    "name": "Aquire-BW0ox.otf",
+    "path": "Aquire-BW0ox.otf",
+    "size": 25984,
+    "type": "file",
+    "sha": "1770523538343"
+  },
+  {
+    "name": "AquireBold-8Ma60.otf",
+    "path": "AquireBold-8Ma60.otf",
+    "size": 24072,
+    "type": "file",
+    "sha": "1770523537854"
+  },
+  {
+    "name": "AquireLight-YzE0o.otf",
+    "path": "AquireLight-YzE0o.otf",
+    "size": 23796,
+    "type": "file",
+    "sha": "1770523537951"
+  },
+  {
+    "name": "beckman-free.otf",
+    "path": "beckman-free.otf",
+    "size": 58904,
+    "type": "file",
+    "sha": "1770523538016"
+  },
+  {
+    "name": "Blackmonssta.otf",
+    "path": "Blackmonssta.otf",
+    "size": 695308,
+    "type": "file",
+    "sha": "1770523538189"
+  },
+  {
+    "name": "Blackmonssta.ttf",
+    "path": "Blackmonssta.ttf",
+    "size": 498888,
+    "type": "file",
+    "sha": "1770523537463"
+  },
+  {
+    "name": "Blackmonssta.woff",
+    "path": "Blackmonssta.woff",
+    "size": 289868,
+    "type": "file",
+    "sha": "1770523538329"
+  },
+  {
+    "name": "Blackmonssta.woff2",
+    "path": "Blackmonssta.woff2",
+    "size": 222604,
+    "type": "file",
+    "sha": "1770523537684"
+  },
+  {
+    "name": "BloodstainPersonalUseBold-1GM30.ttf",
+    "path": "BloodstainPersonalUseBold-1GM30.ttf",
+    "size": 1503524,
+    "type": "file",
+    "sha": "1770523538197"
+  },
+  {
+    "name": "Cunia.otf",
+    "path": "Cunia.otf",
+    "size": 46248,
+    "type": "file",
+    "sha": "1770523537559"
+  },
+  {
+    "name": "Ekron.otf",
+    "path": "Ekron.otf",
+    "size": 25208,
+    "type": "file",
+    "sha": "1770523538207"
+  },
+  {
+    "name": "Ekron.ttf",
+    "path": "Ekron.ttf",
+    "size": 10024,
+    "type": "file",
+    "sha": "1770523537596"
+  },
+  {
+    "name": "HarperBold.ttf",
+    "path": "HarperBold.ttf",
+    "size": 53364,
+    "type": "file",
+    "sha": "1770523538159"
+  },
+  {
+    "name": "Hyrbo-Bold.otf",
+    "path": "Hyrbo-Bold.otf",
+    "size": 22136,
+    "type": "file",
+    "sha": "1770523538213"
+  },
+  {
+    "name": "Kabond Font.otf",
+    "path": "Kabond Font.otf",
+    "size": 66932,
+    "type": "file",
+    "sha": "1770523537639"
+  },
+  {
+    "name": "MANIFESTO.ttf",
+    "path": "MANIFESTO.ttf",
+    "size": 17564,
+    "type": "file",
+    "sha": "1770523538311"
+  },
+  {
+    "name": "NIM.ttf",
+    "path": "NIM.ttf",
+    "size": 32484,
+    "type": "file",
+    "sha": "1770523537666"
+  },
+  {
+    "name": "Quick.otf",
+    "path": "Quick.otf",
+    "size": 24044,
+    "type": "file",
+    "sha": "1770523537637"
+  },
+  {
+    "name": "Quick.ttf",
+    "path": "Quick.ttf",
+    "size": 16240,
+    "type": "file",
+    "sha": "1770523538117"
+  },
+  {
+    "name": "SHIVER.otf",
+    "path": "SHIVER.otf",
+    "size": 27828,
+    "type": "file",
+    "sha": "1770523537602"
+  },
+  {
+    "name": "SHIVER.ttf",
+    "path": "SHIVER.ttf",
+    "size": 70252,
+    "type": "file",
+    "sha": "1770523537525"
+  },
+  {
+    "name": "SWASH.otf",
+    "path": "SWASH.otf",
+    "size": 3592,
+    "type": "file",
+    "sha": "1770523537838"
+  },
+  {
+    "name": "SWASH.ttf",
+    "path": "SWASH.ttf",
+    "size": 7380,
+    "type": "file",
+    "sha": "1770523537697"
+  },
+  {
+    "name": "TheMagnificentGirl-DO1q1.ttf",
+    "path": "TheMagnificentGirl-DO1q1.ttf",
+    "size": 20708,
+    "type": "file",
+    "sha": "1770523537512"
+  },
+  {
+    "name": "TheNightWatch.ttf",
+    "path": "TheNightWatch.ttf",
+    "size": 31264,
+    "type": "file",
+    "sha": "1770523537959"
+  },
+  {
+    "name": "Think.otf",
+    "path": "Think.otf",
+    "size": 130820,
+    "type": "file",
+    "sha": "1770523537927"
+  },
+  {
+    "name": "Think.ttf",
+    "path": "Think.ttf",
+    "size": 38628,
+    "type": "file",
+    "sha": "1770523537688"
+  },
+  {
+    "name": "Trap-Black 900.otf",
+    "path": "Trap-Black 900.otf",
+    "size": 10952,
+    "type": "file",
+    "sha": "1770523537613"
+  },
+  {
+    "name": "Trap-Bold 700.otf",
+    "path": "Trap-Bold 700.otf",
+    "size": 10752,
+    "type": "file",
+    "sha": "1770523538094"
+  },
+  {
+    "name": "Trap-ExtraBold 800.otf",
+    "path": "Trap-ExtraBold 800.otf",
+    "size": 10344,
+    "type": "file",
+    "sha": "1770523537885"
+  },
+  {
+    "name": "Trap-Light 300.otf",
+    "path": "Trap-Light 300.otf",
+    "size": 10528,
+    "type": "file",
+    "sha": "1770523538211"
+  },
+  {
+    "name": "Trap-Medium 500.otf",
+    "path": "Trap-Medium 500.otf",
+    "size": 10532,
+    "type": "file",
+    "sha": "1770523537467"
+  },
+  {
+    "name": "Trap-Regular 400.otf",
+    "path": "Trap-Regular 400.otf",
+    "size": 10236,
+    "type": "file",
+    "sha": "1770523538311"
+  },
+  {
+    "name": "Trap-SemiBold 600.otf",
+    "path": "Trap-SemiBold 600.otf",
+    "size": 10632,
+    "type": "file",
+    "sha": "1770523538282"
   }
 ]
