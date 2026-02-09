@@ -1629,5 +1629,152 @@
     "size": 10916,
     "type": "file",
     "sha": "1770627568858"
+  },
+  {
+    "name": "Branden Raulner Italic.otf",
+    "path": "Branden Raulner Italic.otf",
+    "size": 107812,
+    "type": "file",
+    "sha": "1770627719930"
+  },
+  {
+    "name": "Branden Raulner Italic.ttf",
+    "path": "Branden Raulner Italic.ttf",
+    "size": 107812,
+    "type": "file",
+    "sha": "1770627719555"
+  },
+  {
+    "name": "Branden Raulner Italic.woff",
+    "path": "Branden Raulner Italic.woff",
+    "size": 33248,
+    "type": "file",
+    "sha": "1770627720394"
+  },
+  {
+    "name": "Branden Raulner.otf",
+    "path": "Branden Raulner.otf",
+    "size": 105028,
+    "type": "file",
+    "sha": "1770627720165"
+  },
+  {
+    "name": "Branden Raulner.ttf",
+    "path": "Branden Raulner.ttf",
+    "size": 105028,
+    "type": "file",
+    "sha": "1770627720282"
+  },
+  {
+    "name": "Branden Raulner.woff",
+    "path": "Branden Raulner.woff",
+    "size": 31384,
+    "type": "file",
+    "sha": "1770627719840"
+  },
+  {
+    "name": "Gigxa Free Personal use.otf",
+    "path": "Gigxa Free Personal use.otf",
+    "size": 15512,
+    "type": "file",
+    "sha": "1770627719565"
+  },
+  {
+    "name": "Nucliometer-Bold.otf",
+    "path": "Nucliometer-Bold.otf",
+    "size": 30120,
+    "type": "file",
+    "sha": "1770627719927"
+  },
+  {
+    "name": "Nucliometer-BoldCondensed.otf",
+    "path": "Nucliometer-BoldCondensed.otf",
+    "size": 30816,
+    "type": "file",
+    "sha": "1770627720409"
+  },
+  {
+    "name": "Nucliometer-BoldExtraCondensed.otf",
+    "path": "Nucliometer-BoldExtraCondensed.otf",
+    "size": 30832,
+    "type": "file",
+    "sha": "1770627720021"
+  },
+  {
+    "name": "Nucliometer-BoldSemiCondensed.otf",
+    "path": "Nucliometer-BoldSemiCondensed.otf",
+    "size": 30680,
+    "type": "file",
+    "sha": "1770627719634"
+  },
+  {
+    "name": "Nucliometer-BoldUltraCondensed.otf",
+    "path": "Nucliometer-BoldUltraCondensed.otf",
+    "size": 31236,
+    "type": "file",
+    "sha": "1770627720278"
+  },
+  {
+    "name": "NucliometerVF.ttf",
+    "path": "NucliometerVF.ttf",
+    "size": 38888,
+    "type": "file",
+    "sha": "1770627719602"
+  },
+  {
+    "name": "NucliometerVF.woff",
+    "path": "NucliometerVF.woff",
+    "size": 17648,
+    "type": "file",
+    "sha": "1770627720222"
+  },
+  {
+    "name": "Richard Hampton.otf",
+    "path": "Richard Hampton.otf",
+    "size": 85580,
+    "type": "file",
+    "sha": "1770627720374"
+  },
+  {
+    "name": "Richard Hampton.ttf",
+    "path": "Richard Hampton.ttf",
+    "size": 85580,
+    "type": "file",
+    "sha": "1770627720069"
+  },
+  {
+    "name": "Richard Hampton.woff",
+    "path": "Richard Hampton.woff",
+    "size": 42372,
+    "type": "file",
+    "sha": "1770627720203"
+  },
+  {
+    "name": "Rugral.otf",
+    "path": "Rugral.otf",
+    "size": 77836,
+    "type": "file",
+    "sha": "1770627719630"
+  },
+  {
+    "name": "Rugral.ttf",
+    "path": "Rugral.ttf",
+    "size": 208932,
+    "type": "file",
+    "sha": "1770627719618"
+  },
+  {
+    "name": "Rugral.woff",
+    "path": "Rugral.woff",
+    "size": 51956,
+    "type": "file",
+    "sha": "1770627720257"
+  },
+  {
+    "name": "TriakisFont-Regular.otf",
+    "path": "TriakisFont-Regular.otf",
+    "size": 37712,
+    "type": "file",
+    "sha": "1770627719679"
   }
 ]
