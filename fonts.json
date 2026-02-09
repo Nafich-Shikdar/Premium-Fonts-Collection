@@ -1545,5 +1545,89 @@
     "size": 10632,
     "type": "file",
     "sha": "1770523538282"
+  },
+  {
+    "name": "Ade-Display.otf",
+    "path": "Ade-Display.otf",
+    "size": 28976,
+    "type": "file",
+    "sha": "1770627568802"
+  },
+  {
+    "name": "Designors.otf",
+    "path": "Designors.otf",
+    "size": 81772,
+    "type": "file",
+    "sha": "1770627568589"
+  },
+  {
+    "name": "Designors.ttf",
+    "path": "Designors.ttf",
+    "size": 87568,
+    "type": "file",
+    "sha": "1770627568946"
+  },
+  {
+    "name": "Emizen.otf",
+    "path": "Emizen.otf",
+    "size": 28004,
+    "type": "file",
+    "sha": "1770627569219"
+  },
+  {
+    "name": "Emizen.ttf",
+    "path": "Emizen.ttf",
+    "size": 72304,
+    "type": "file",
+    "sha": "1770627568571"
+  },
+  {
+    "name": "Georgina.otf",
+    "path": "Georgina.otf",
+    "size": 180876,
+    "type": "file",
+    "sha": "1770627568844"
+  },
+  {
+    "name": "Georgina.ttf",
+    "path": "Georgina.ttf",
+    "size": 180876,
+    "type": "file",
+    "sha": "1770627569138"
+  },
+  {
+    "name": "Georgina.woff2",
+    "path": "Georgina.woff2",
+    "size": 64444,
+    "type": "file",
+    "sha": "1770627568847"
+  },
+  {
+    "name": "Kulfi.otf",
+    "path": "Kulfi.otf",
+    "size": 12120,
+    "type": "file",
+    "sha": "1770627569067"
+  },
+  {
+    "name": "Kulfi.ttf",
+    "path": "Kulfi.ttf",
+    "size": 23112,
+    "type": "file",
+    "sha": "1770627568634"
+  },
+  {
+    "name": "STARLYNX.otf",
+    "path": "STARLYNX.otf",
+    "size": 27652,
+    "type": "file",
+    "sha": "1770627569295"
+  },
+  {
+    "name": "STARLYNX.ttf",
+    "path": "STARLYNX.ttf",
+    "size": 10916,
+    "type": "file",
+    "sha": "1770627568858"
   }
 ]
